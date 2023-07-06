@@ -32,8 +32,8 @@ Hello, my name is Ethan Lynch, and I'm a full-stack developer with expertise in 
 
 Feel free to reach out to me through the following channels:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
+- Email: ethanlynch72@gmail.com (mailto:ethanlynch72@gmail.com)
+- LinkedIn: Ethan Lynch(https://www.linkedin.com/in/yourname/)
 
 I'm enthusiastic and dedicated to web development, and I value personal growth, hard work, and helping others. I'm excited to contribute my technical skills, passion, and commitment to any projects I undertake. Let's connect and collaborate!
 
