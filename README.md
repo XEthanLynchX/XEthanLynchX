@@ -6,9 +6,15 @@
 
 Hello, my name is Ethan Lynch, and I'm a full-stack developer with expertise in HTML, CSS, Java, MERN, and Python. I'm passionate about creating balance in one's life and fostering personal growth and learning. I believe in the power of hard work and commitment to achieve great results. Understanding, helping, and serving others are core values that drive me to make a positive impact in the world.
 
-## About Me
+## My Strengths
 
-One of my strengths is my continuous pursuit of technical learning. I love staying updated with the latest advancements in the web development field. Additionally, I'm dedicated to my own self-development, constantly seeking ways to improve my skills and knowledge. Having a well-rounded perspective is another strength of mine. I believe in approaching problems from different angles, which helps me find innovative solutions. I'm also skilled at setting priorities, allowing me to effectively manage my time and resources.
+- **Continuous Learning:** I thrive on the pursuit of technical knowledge, constantly staying updated with the latest advancements in the web development field. I have a genuine passion for learning and a drive to keep expanding my skillset.
+
+- **Self-Development:** I am deeply committed to my personal growth as a developer. I proactively seek opportunities to improve my skills and knowledge, exploring new technologies and methodologies that push the boundaries of my expertise.
+
+- **Versatile Perspective:** I possess a well-rounded perspective that allows me to approach problems from different angles. By embracing diverse viewpoints and considering various solutions, I excel at finding innovative and effective ways to overcome challenges.
+
+- **Effective Resource Management:** I am skilled at setting priorities and efficiently managing my time and resources. With a strong sense of organization and focus, I consistently deliver high-quality work while meeting deadlines and exceeding expectations.
 
 ## Skills
 
