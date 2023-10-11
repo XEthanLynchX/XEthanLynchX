@@ -8,7 +8,7 @@ Hello, my name is Ethan Lynch, and I'm a full-stack developer with expertise in 
 
 ## My Strengths
 
-- **Continuous Learning:** I thrive on the pursuit of technical knowledge, constantly staying updated with the latest advancements in the web development field. I have a genuine passion for learning and a drive to keep expanding my skillset.
+- **Continuous Learning:** I thrive on the pursuit of technical knowledge, constantly staying updated with the latest advancements in the web development field. I have a genuine passion for learning and a drive to keep expanding my skill set.
 
 - **Self-Development:** I am deeply committed to my personal growth as a developer. I proactively seek opportunities to improve my skills and knowledge, exploring new technologies and methodologies that push the boundaries of my expertise.
 
@@ -22,7 +22,7 @@ Hello, my name is Ethan Lynch, and I'm a full-stack developer with expertise in 
 - CSS
 - Java
 - MERN (MongoDB, Express.js, React.js, Node.js)
-- Python
+- Python(Flask & Django)
 
 ## Stats
 
